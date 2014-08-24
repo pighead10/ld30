@@ -73,6 +73,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Bullet.cpp" />
+    <ClCompile Include="BurstWeapon.cpp" />
     <ClCompile Include="Entity.cpp" />
     <ClCompile Include="FlipWorld.cpp" />
     <ClCompile Include="GameState.cpp" />
@@ -101,6 +102,7 @@
   <ItemGroup>
     <ClInclude Include="BaseState.h" />
     <ClInclude Include="Bullet.h" />
+    <ClInclude Include="BurstWeapon.h" />
     <ClInclude Include="Entity.h" />
     <ClInclude Include="FlipWorld.h" />
     <ClInclude Include="GameState.h" />
